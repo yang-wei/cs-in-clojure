@@ -3,7 +3,7 @@
 Ported from @nzakas [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) repository.
 
 ## Algorithm
- + [Luhn Algorithm](src/cs_clojure/algorithm/luhn=test.clj) - https://en.wikipedia.org/wiki/Luhn_algorithm
+ + [Luhn Algorithm](src/cs_clojure/algorithm/luhn.clj) - https://en.wikipedia.org/wiki/Luhn_algorithm
 
 
 ### Test
